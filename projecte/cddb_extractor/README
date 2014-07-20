@@ -1,0 +1,13 @@
+#### CDDB-EXTRACTOR
+###################
+
+1. Situeu el directori	CDDB dins el mateix directori que l'executable 
+   de cddb_extractor
+
+2. Compileu el codi font executant 
+
+	make	(Linux)
+
+	make mac (MacOSX)
+
+3. Executeu ./cddb-extractor

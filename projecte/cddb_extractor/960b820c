@@ -1,0 +1,52 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	180
+#	21339
+#	40392
+#	54286
+#	70753
+#	83994
+#	106331
+#	124292
+#	144089
+#	165038
+#	182033
+#	198870
+#
+# Disc length: 2948 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.40Release
+#
+DISCID=960b820c
+DTITLE=Alanis Morrisette / Jagged Little Pill
+DYEAR=1995
+DGENRE=Alternative
+TTITLE0=All I Really Want
+TTITLE1=You Oughta Know
+TTITLE2=Perfect
+TTITLE3=HAnd In My Pocket
+TTITLE4=Right Through You
+TTITLE5=Forgiven
+TTITLE6=You Learn
+TTITLE7=Head Over Feet
+TTITLE8=Mary Jane
+TTITLE9=Ironic
+TTITLE10=Not The Doctor
+TTITLE11=Wake Up
+EXTD= YEAR: 1995 ID3G: 20
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+PLAYORDER=
